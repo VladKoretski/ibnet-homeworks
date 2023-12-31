@@ -13,8 +13,8 @@
 1. sudo apt update
 2. sudo apt install telnet
 ## На Ubuntu выволняю следующие команды:
-sudo apt update
-sudo apt install nginx openssh-server vsftpd telnet
+1. sudo apt update
+2. sudo apt install nginx openssh-server vsftpd telnet
 
 После запусках telnet на обоих машинах получаю сообщение 
 telnet: Unable to connect to remote host: Connection refused:
